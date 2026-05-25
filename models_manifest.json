@@ -1,11 +1,18 @@
 {
   "models": {
     "best.onnx.enc": {
-      "version": "1.0.0",
-      "sha256": "92A17662880E003AB1DB2A1B32DAA486285D7929BF0C6455585654050D7915C0",
+      "version": "1.0.1",
+      "sha256": "82647DFF489974070AE42076629AA1F06ACD9C1B62AA38A7B4A76A8DE0484389",
       "url": "https://github.com/Artemka0911/MangaEditor-Assets/releases/download/Model/best.onnx.enc",
       "relative_path": "model/best.onnx.enc",
       "size_bytes": 89928320
+    },
+    "lama_fp32.onnx.enc": {
+      "version": "1.0.1",
+      "sha256": "94CF7AF1205F7F06DFD9A181C5DC23F33CDD19D99EA344FB077B7730872EE67E",
+      "url": "https://github.com/Artemka0911/MangaEditor-Assets/releases/download/Model/lama_fp32.onnx.enc",
+      "relative_path": "model/lama_fp32.onnx.enc",
+      "size_bytes": 207482672
     }
   }
 }
