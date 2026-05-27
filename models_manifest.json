@@ -1,11 +1,11 @@
 {
   "models": {
     "best.onnx.enc": {
-      "version": "1.0.1",
-      "sha256": "82647DFF489974070AE42076629AA1F06ACD9C1B62AA38A7B4A76A8DE0484389",
+      "version": "1.0.2",
+      "sha256": "F7CBB9482AE5FA4BFDD73065A4FF1082404DF9D9BB6C7486B01CE9E0F5BF8ACF",
       "url": "https://github.com/Artemka0911/MangaEditor-Assets/releases/download/Model/best.onnx.enc",
       "relative_path": "model/best.onnx.enc",
-      "size_bytes": 89928320
+      "size_bytes": 94636192
     },
     "lama_fp32.onnx.enc": {
       "version": "1.0.1",
