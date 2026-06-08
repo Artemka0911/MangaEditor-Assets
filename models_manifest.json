@@ -8,11 +8,11 @@
       "size_bytes": 94636192
     },
     "lama_fp32.onnx.enc": {
-      "version": "1.0.1",
-      "sha256": "94CF7AF1205F7F06DFD9A181C5DC23F33CDD19D99EA344FB077B7730872EE67E",
+      "version": "1.0.2",
+      "sha256": "0C7A23D64389CC4F873FB26363EDC8408C686926ECC9A2804444ACDA1F814EAA",
       "url": "https://github.com/Artemka0911/MangaEditor-Assets/releases/download/Model/lama_fp32.onnx.enc",
       "relative_path": "model/lama_fp32.onnx.enc",
-      "size_bytes": 207482672
+      "size_bytes": 206291872
     }
   }
 }
